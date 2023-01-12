@@ -4,3 +4,5 @@ out = 'out'
 libs = ['lib']
 
 # See more config options https://github.com/foundry-rs/foundry/tree/master/config
+eth_rpc_url = 'https://eth-rinkeby.alchemyapi.io/v2/<alchemy_api_key>'
+etherscan_api_key = '<etherscan_api_key>'
